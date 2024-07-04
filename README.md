@@ -1,3 +1,4 @@
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 # 💫 About Me:
 I'm currently learning IT <br>My main goal is to keep progressing.<br>I'm looking to collaborate<br>i'm interested in it <br>do not hesitate to contact me
 
