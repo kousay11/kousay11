@@ -1,5 +1,6 @@
-[![MasterHead]'https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://rishavchanda.io)
-<img align="right" alt="Coding" width="400" src="[https://pngtree.com/element/down?id=MTQ4Njc4ODY=&type=1&time=1720103598&token=Y2U2YTYwMTYzZGI2MGYwYTYxOWMzYjQ1OGI0YTI0MWI=&t=0](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/kousay11/kousay11/assets/131978549/01342f2e-d181-4fee-bd69-1e167fb5af9a)
+">
 # 💫 About Me:
 I'm currently learning IT <br>My main goal is to keep progressing.<br>I'm looking to collaborate<br>i'm interested in it <br>do not hesitate to contact me
 
