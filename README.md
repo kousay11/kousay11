@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe">
 
 # 💫 About Me:
-I'm currently learning IT <br>My main goal is to keep progressing.<br>I'm looking to collaborate<br>i'm interested in it <br>do not hesitate to contact me
+🔭I'm currently learning IT <br>🌱My main goal is to keep progressing.<br>⚡I'm looking to collaborate<br>💬i'm interested in it <br>📫do not hesitate to contact me kousaynajar147@gmail.com
 
 
 ## 🌐 Socials:
