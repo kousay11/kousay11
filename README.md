@@ -2,13 +2,11 @@
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="logo">
 </p>
 
-<p>
-  <!-- Image à gauche -->
-  <img src="devImg.png" alt="Left Image" width="200" align="left">
-  <!-- Image à droite -->
-  <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" alt="Right Image" width="200" align="right">
-</p>
-
+<!-- Conteneur flex pour aligner les images à gauche et à droite -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+  <img src="devImg.png" alt="Left Image" width="200" style="object-fit: contain;">
+  <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" alt="Right Image" width="200" style="object-fit: contain;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Kousay Najar</h1>
 <h3 align="center">💻 IT Student at ESPRIT</h3>
