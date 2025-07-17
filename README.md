@@ -2,8 +2,11 @@
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="logo">
 </p>
 
-<p align="right">
-  <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" alt="Coding" width="400">
+<p align="center">
+  <!-- Image à gauche -->
+  <img src="devImg.png" alt="Left Image" width="300" align="left">
+  <!-- Image actuelle à droite -->
+  <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" alt="Coding" width="300" align="right">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kousay Najar</h1>
