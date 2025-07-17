@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <!-- Deux images côte à côte -->
-  <img src="devImg.png" alt="Left Image" width="300" style="margin-right: 20px;">
+  <!-- Deux images côte à côte avec espace -->
+  <img src="devImg.png" alt="Left Image" width="300"> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" alt="Coding" width="300">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Kousay Najar</h1>
 <h3 align="center">💻 IT Student at ESPRIT</h3>
