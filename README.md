@@ -5,7 +5,7 @@
 <!-- Conteneur flex avec grand espace entre les images -->
 <table style="width: 100%;">
   <tr>
-    <td style="text-align: left; width: 33%;">
+    <td style="text-align: left; width: 100%;">
       <img src="devImg.png" alt="Left Image" width="200" style="object-fit: contain;">
     </td>
     <td style="width: 34%;"></td> <!-- Cellule vide pour l'espace -->
