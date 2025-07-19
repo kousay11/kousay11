@@ -8,7 +8,7 @@
     <td style="text-align: left; width: 30%; border: none;">
       <img src="devImg.png" alt="Left Image" width="200" style="object-fit: contain;">
     </td>
-    <td style="width: 100%; border: none;"></td> <!-- Espace au centre -->
+    <td style="width: 10000%; border: none;"></td> <!-- Espace au centre -->
     <td style="text-align: right; width: 30%; border: none;">
       <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" 
            alt="Right Image" 
