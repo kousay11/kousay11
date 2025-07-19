@@ -3,20 +3,13 @@
 </p>
 
 <!-- Conteneur flex avec grand espace entre les images -->
-<table border="0" style="width:100%; border-collapse:collapse; border:none;">
-  <tr>
-    <td style="text-align:left; width:30%; border:none;">
-      <img src="devImg.png" alt="Left Image" width="200" style="object-fit:contain;">
-    </td>
-    <td style="width:40%; min-width:100px; border:none;"></td>
-    <td style="text-align:right; width:30%; border:none;">
-      <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe"
-           alt="Right Image"
-           width="200"
-           style="object-fit:contain;">
-    </td>
-  </tr>
-</table>
+<p style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 0; padding: 0 20%;">
+  <img src="devImg.png" alt="Left Image" width="200" style="object-fit: contain;">
+  <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" 
+       alt="Right Image" 
+       width="200" 
+       style="object-fit: contain;">
+</p> mettre dans un tableau telque une image a la case a gauche extrimite et l'autre a extrimite droite dans un meme ligne 
 
 
 
