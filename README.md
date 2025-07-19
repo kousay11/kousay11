@@ -5,10 +5,11 @@
 <!-- Conteneur flex avec grand espace entre les images -->
 <table style="width: 100%;">
   <tr>
-    <td style="text-align: left;">
+    <td style="text-align: left; width: 33%;">
       <img src="devImg.png" alt="Left Image" width="200" style="object-fit: contain;">
     </td>
-    <td style="text-align: right;">
+    <td style="width: 34%;"></td> <!-- Cellule vide pour l'espace -->
+    <td style="text-align: right; width: 33%;">
       <img src="https://github.com/kousay11/kousay11/assets/131978549/c5151cd7-4ae4-4e61-b3f8-36d6240e18fe" 
            alt="Right Image" 
            width="200" 
@@ -16,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
