@@ -1,11 +1,6 @@
+
 <p align="center">
-  <img src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="IT & Dev banner" width="1800" height="400">
-</p>
-<p align="center">
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="logo">
-</p>
-<p align="center">
- <img src="myImageghub.png" width="2000" height="600" ">
+ <img src="myImageghub.png" width="2000" height="400" ">
 </p>
 
 
