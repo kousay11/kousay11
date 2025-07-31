@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Development GIF" width="400">
+  <img src="https://i.imgur.com/3Y5ZQkN.gif" alt="IT & Dev banner" width="2000" height="600">
 </p>
 
 
