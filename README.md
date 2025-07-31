@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="logo">
-</p>
+<p align="center"> <img src="https://assets.lottiefiles.com/animations/data-science.gif" alt="Data Science & Dev GIF" width="400"> </p>
 
 <!-- Conteneur flex avec grand espace entre les images -->
 <p style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 0; padding: 20%;">
