@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="IT & Dev banner" width="2000" height="400">
+  <img src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="IT & Dev banner" width="1800" height="400">
 </p>
 
 
