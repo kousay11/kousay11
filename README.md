@@ -3,7 +3,7 @@
 <!-- AI & Data Science GitHub Banner -->
 <p align="center">
   <img
-    src="myImageghub.png"
+    src="githubImg.png"
     alt="AI & Data Science Engineer | RAG, AI Agents, MLOps & Automation"
     width="100%"
   />
